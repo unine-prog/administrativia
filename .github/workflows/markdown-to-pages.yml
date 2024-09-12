@@ -1,13 +1,11 @@
-name: default
+name: markdown-to-pages
 
-on:
-  push:
-    branches:
-    - '*'
+on: [push]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
     steps:
     - uses: actions/checkout@v4
     - uses: wranders/markdown-to-pages-action@v1.0.1
