@@ -16,9 +16,9 @@ The course material is available on [GitHub](https://github.com/) as a private r
 
 The Jupyter notebooks require some Python modules that are not installed by default in Noto, like `yfinance` or `eurostatapiclient`. The recommendend way of installing third party modules in Python is to set up a virtual environment. This is the only way that will work in [Noto](https://noto.epfl.ch/).
 
-To setup a suitable `programming` environment and an associated `Programming` Jupyter kernel, you can simply clone this repository in [Noto](https://noto.epfl.ch/).
+To setup a suitable `programming` environment and an associated `Programming` Jupyter kernel, you can simply clone this repository in [Noto](https://noto.epfl.ch/) and run the <a href="https://noto.epfl.ch/hub/user-redirect/lab/tree/administrativia/course-material/Download%20Course%20Material.ipynb" target="_blank">Download Course Material</a> notebook.
 
-## Cloning the Repository
+### Cloning the Repository
 
 To clone the public repository, follow these steps:
 
@@ -33,6 +33,8 @@ To clone the public repository, follow these steps:
 
     <img src="../images/noto-git-clone.png"><br/>
 
-## Download the Course Material
+### Download the Course Material
 
 Once the above steps are done, you can go through and run the notebook <a href="https://noto.epfl.ch/hub/user-redirect/lab/tree/administrativia/course-material/Download%20Course%20Material.ipynb" target="_blank">Download Course Material</a> in Noto.
+
+Alternatively, you can also simply download the <a href="https://noto.epfl.ch/hub/user-redirect/lab/tree/administrativia/course-material/Download%20Course%20Material.ipynb" target="_blank">Download Course Material</a> notebook directly from GitHub to your computer, upload it on Noto and run it, but you won't have the latest changes available should something change.
