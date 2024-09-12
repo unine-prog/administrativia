@@ -2,7 +2,7 @@ jobs:
   build:
     steps:
     - uses: actions/checkout@v4
-    - uses: wranders/markdown-to-pages-action@v1
+    - uses: wranders/markdown-to-pages-action@v1.0.1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
