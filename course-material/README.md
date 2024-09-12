@@ -35,4 +35,4 @@ To clone the public repository, follow these steps:
 
 ## Download the Course Material
 
-Once the above steps are done, you can go through and run the notebook <a href="https://noto.epfl.ch/hub/user-redirect/lab/tree/programming/administrativia/course-material/Download%20Course%20Material.ipynb" target="_blank">Download Course Material</a> in Noto.
+Once the above steps are done, you can go through and run the notebook <a href="https://noto.epfl.ch/hub/user-redirect/lab/tree/administrativia/course-material/Download%20Course%20Material.ipynb" target="_blank">Download Course Material</a> in Noto.
