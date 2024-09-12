@@ -12,7 +12,6 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         files: |-
           README.md
-          # test/README.md
     # - run: cp ./images ./dist/images/
     - uses: actions/upload-pages-artifact@v3
       with:
