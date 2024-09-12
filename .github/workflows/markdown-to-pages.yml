@@ -13,7 +13,8 @@ jobs:
         files: |-
           README.md
           evaluation-requirements/README.md
-    # - run: cp ./images ./dist/images/
+          course-material/README.md
+    - run: cp ./images ./dist/images/
     - uses: actions/upload-pages-artifact@v3
       with:
         path: dist
