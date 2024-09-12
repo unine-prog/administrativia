@@ -4,3 +4,4 @@
 
 [Prof. Eric Simon](mailto:eric.simon@unine.ch)
 
+This web site contains some ressources for the course Programming.
