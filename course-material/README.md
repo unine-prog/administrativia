@@ -37,4 +37,3 @@ To clone the public repository, follow these steps:
 
 Once the above steps are done, you can go through and run the notebook <a href="https://noto.epfl.ch/hub/user-redirect/lab/tree/administrativia/course-material/Download%20Course%20Material.ipynb" target="_blank">Download Course Material</a> in Noto.
 
-Alternatively, you can also simply download the [Download Course Material](https://github.com/unine-prog/administrativia/blob/main/course-material/Download%20Course%20Material.ipynb) notebook directly from GitHub to your computer, upload it on Noto and run it, but you won't have the latest changes available should something change.
