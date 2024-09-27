@@ -2,7 +2,7 @@
 
 <img src="https://www.unine.ch/files/live/sites/communication/files/Logos/2022/unine_logo_couleur.png" alt="unine logo" width="180px">
 
-[Prof. Eric Simon](mailto:eric.simon@unine.ch)
+[Prof. Eric Simon](https://www.unine.ch/imi/en/home/equipe/eric-simon.html)
 
 ## Course Material
 
